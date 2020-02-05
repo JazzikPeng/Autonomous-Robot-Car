@@ -2,6 +2,7 @@
 
 **Documents**
 https://towardsdatascience.com/deeppicar-part-1-102e03c83f2c
+
 https://becominghuman.ai/building-self-driving-rc-car-series-1-intro-equipments-plan-8d9f579df45c
 
 
