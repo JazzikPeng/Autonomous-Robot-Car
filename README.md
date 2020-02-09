@@ -22,4 +22,19 @@ Drive this around Sam's office and not hitting people or obstacles.
 
 **Challenge #2**: Affect the environment in some way of your choice (move an object, make a robot drive or fly in a controlled way, turn an appliance on/off, or even just blink an LED). Go to @212 for posting your submission.
 
+# Schedule
+## Part 1. Hardware Supply List, Deadline Feb. 16th
+This will satisfy **Challenge #0**
+Please refer to the list here. 
+We already have a Raspberry Pi. 
+https://towardsdatascience.com/deeppicar-part-2-8512be2133f3
+
+## Part 2. Raspberry Pi Set up, Deadline Feb. 16th
+We will share this Raspberry Pi.
+NOOBS Raspbian Operating System is a variate of Linux. 
+
+## Part 3. PiCar Assembly, Deadline Feb. 23th
+We will get car kits and assemble the car.
+
+ 
 
