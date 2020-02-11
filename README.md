@@ -29,7 +29,7 @@ Please refer to the list here.
 We already have a Raspberry Pi. 
 https://towardsdatascience.com/deeppicar-part-2-8512be2133f3
 
-- [x]1 x 64 GB micro SD Card ($8)  
+- [ x] 1 x 64 GB micro SD Card ($8)  
 
 ## Part 2. Raspberry Pi Set up, Deadline Feb. 16th
 We will share this Raspberry Pi.
