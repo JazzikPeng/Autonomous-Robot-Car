@@ -30,10 +30,16 @@ We already have a Raspberry Pi.
 https://towardsdatascience.com/deeppicar-part-2-8512be2133f3
 
 - [x] [1 x 64 GB micro SD Card ($8)](https://www.amazon.com/gp/product/B079GVC5B7/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)
-- [x] [Kingston Canvas Select 128GB microSDHC](https://www.amazon.com/gp/product/B079GVC5B7/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)
+
+- [x] [Kingston Canvas Select 128GB microSDHC]
+(https://www.amazon.com/gp/product/B079GVC5B7/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)
+
 - [x] [4Pcs 18650 Battery] (https://www.amazon.com/gp/product/B083XK5HDG/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+
 - [x] [ELP 2.1mm Wide Angle Small USB Camera] (https://www.amazon.com/gp/product/B01N07OHYF/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1)
+
 - [x] [Coral USB Accelerator] (https://www.amazon.com/gp/product/B07S214S5Y/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1) 
+
 - [x] [Attatoy Kids Wooden Street Signs Playse] (https://www.amazon.com/gp/product/B01A8XTHHA/ref=ppx_yo_dt_b_asin_title_o00_s01?ie=UTF8&psc=1) 
 
 ## Part 2. Raspberry Pi Set up, Deadline Feb. 16th
